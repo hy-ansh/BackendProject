@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BackendProject/static/css/main.f855e6bc.css",
+    "main.js": "/BackendProject/static/js/main.bb346139.js",
+    "static/js/453.9e702947.chunk.js": "/BackendProject/static/js/453.9e702947.chunk.js",
+    "index.html": "/BackendProject/index.html",
+    "main.f855e6bc.css.map": "/BackendProject/static/css/main.f855e6bc.css.map",
+    "main.bb346139.js.map": "/BackendProject/static/js/main.bb346139.js.map",
+    "453.9e702947.chunk.js.map": "/BackendProject/static/js/453.9e702947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bb346139.js"
+  ]
+}
